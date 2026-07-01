@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="Dashboard_2.png" alt="Dashboard Preview" width="900">
+  <img src="Dashboard 2.png" alt="Dashboard Preview" width="900">
 </p>
 
 ---
